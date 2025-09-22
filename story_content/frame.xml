@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns00001000101" textdirection="ltr" textengine="DirectWrite" device="true" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns00001000101" textdirection="ltr" textengine="DirectWrite" device="true" fontscale="130" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00001000101" font="Open Sans" controllayout="npnxnanbsnfns00001000101" colorscheme="npxnabnsnfns00001000101" string_table="npxnabnsnfns00001000101" />
-    <layout name="pxabnsnfns00001000101" font="Open Sans" controllayout="pxabnsnfns00001000101" colorscheme="npxnabnsnfns00001000101" string_table="npxnabnsnfns00001000101" />
-    <layout name="npxnabnsnfns00001000101" font="Open Sans" controllayout="npxnabnsnfns00001000101" colorscheme="npxnabnsnfns00001000101" string_table="npxnabnsnfns00001000101" />
-    <layout name="npnxnanbnsnfns00001000101" font="Open Sans" controllayout="npnxnanbnsnfns00001000101" colorscheme="npxnabnsnfns00001000101" string_table="npxnabnsnfns00001000101" />
-    <layout name="pxabnsnfns00001000100" font="Open Sans" controllayout="pxabnsnfns00001000100" colorscheme="npxnabnsnfns00001000101" string_table="npxnabnsnfns00001000101" />
-    <layout name="pnxanbnsnfns00001000101" font="Open Sans" controllayout="pnxanbnsnfns00001000101" colorscheme="npxnabnsnfns00001000101" string_table="npxnabnsnfns00001000101" />
+    <layout name="npnxnanbsnfns00001000101" font="Montserrat" controllayout="npnxnanbsnfns00001000101" colorscheme="npxnabnsnfns00001000101" string_table="npxnabnsnfns00001000101" />
+    <layout name="pxabnsnfns00001000101" font="Montserrat" controllayout="pxabnsnfns00001000101" colorscheme="npxnabnsnfns00001000101" string_table="npxnabnsnfns00001000101" />
+    <layout name="npxnabnsnfns00001000101" font="Montserrat" controllayout="npxnabnsnfns00001000101" colorscheme="npxnabnsnfns00001000101" string_table="npxnabnsnfns00001000101" />
+    <layout name="npnxnanbnsnfns00001000101" font="Montserrat" controllayout="npnxnanbnsnfns00001000101" colorscheme="npxnabnsnfns00001000101" string_table="npxnabnsnfns00001000101" />
+    <layout name="pxabnsnfns00001000100" font="Montserrat" controllayout="pxabnsnfns00001000100" colorscheme="npxnabnsnfns00001000101" string_table="npxnabnsnfns00001000101" />
+    <layout name="pnxanbnsnfns00001000101" font="Montserrat" controllayout="pnxanbnsnfns00001000101" colorscheme="npxnabnsnfns00001000101" string_table="npxnabnsnfns00001000101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="TCDV" />
+              <option name="title_text" value="Ti&amp;#234;u chuẩn dịch vụ bằng tr&amp;#225;i tim &amp;amp; nụ cười" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -49,7 +49,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="restricted" />
+          <option name="flow" value="free" />
           <option name="wraplistitems" value="true" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
@@ -1272,7 +1272,7 @@
     </string_table>
   </string_tables>
   <fonts>
-    <font name="Open Sans">
+    <font name="Montserrat">
       <files>
         <file bold="true" italic="false" />
         <file bold="false" italic="false" />
@@ -1293,7 +1293,7 @@
         <slidelink slideid="_player.5sPHs4ChbfQ" displaytext="Tác phong chuyên nghiệp &amp;amp; hình ảnh của tổ chức" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5sPHs4ChbfQ.6N8T70my8u2" displaytext="Giới thiệu chung" expand="false" type="slide" />
-            <slidelink slideid="_player.5sPHs4ChbfQ.6HZP1PwaNja" displaytext="Tác phong chuyên nghiệp &amp;amp; hình ảnh của tổ chức" expand="true" type="slide">
+            <slidelink slideid="_player.5sPHs4ChbfQ.6HZP1PwaNja" displaytext="Tác phong chuyên nghiệp &amp;amp; hình ảnh của tổ chức" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.5sPHs4ChbfQ.64rwGxX1d8H" displaytext="Nhân sự tiếp đón" expand="false" type="slide" />
                 <slidelink slideid="_player.5sPHs4ChbfQ.6qfldV5JjNF" displaytext="Tầm ảnh hưởng của tác phong chuyên nghiệp" expand="false" type="slide" />
@@ -1315,7 +1315,7 @@
           <links>
             <slidelink slideid="_player.5Zppy8GZEki.6HMqb6mBKuq" displaytext="Hiểu đúng về TCDV bằng trái tim &amp;amp; nụ cười" expand="false" type="slide" />
             <slidelink slideid="_player.5Zppy8GZEki.5zdGCieaJUL" displaytext="Xác định khách hàng" expand="false" type="slide" />
-            <slidelink slideid="_player.5Zppy8GZEki.6I72wzqsGWi" displaytext="Cách thức cung cấp tiêu chuẩn dịch vụ bằng trái tim &amp;amp; nụ cười" expand="true" type="slide">
+            <slidelink slideid="_player.5Zppy8GZEki.6I72wzqsGWi" displaytext="Cách thức cung cấp tiêu chuẩn dịch vụ bằng trái tim &amp;amp; nụ cười" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.5Zppy8GZEki.6jPDp8dRXfg" displaytext="Diện mạo chỉn chu" expand="false" type="slide" />
                 <slidelink slideid="_player.5Zppy8GZEki.6Fa8VuK4xUi" displaytext="Cử chỉ, tác phong chuyên nghiệp" expand="false" type="slide" />
